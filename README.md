@@ -30,5 +30,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<a href="src="https://akatheauthor.files.wordpress.com/2016/02/colbys-cat.gif?w=493&h=278"></a>
+<img src="https://akatheauthor.files.wordpress.com/2016/02/colbys-cat.gif?w=493&h=278" />
 
