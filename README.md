@@ -1,42 +1,89 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PETCH
-=============================================================================================================================
+# Hi, I'm Petch
 
-* Professional Googler
-* Sleepless Coder
-* Music Junkie
-* Fake Psychologist (INTP 6w5)
+## About Me
 
-### Skills
-<div>
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+**Computer Science Student | Aspiring Data Scientist & AI Researcher**
+
+Expertise in **Machine Learning, Natural Language Processing, and Cloud Computing**
+
+Experienced in **Data Analysis, Predictive Modeling, and Large Language Models (LLMs)**
+
+---
+
+## Projects & Research
+
+### Machine Learning & Data Science
+- **Movie Revenue Prediction (2023):** Developed a regression model using scikit-learn, XGBoost, Gradio
+- **Global Terrorism Analysis:** Conducted data-driven analysis using Python, Pandas, Seaborn
+- **Credit Risk Modeling (2024):** Built a risk assessment system using Logistic Regression, ROC-AUC, Basel Compliance
+- **Apple Exports Prediction:** Time series forecasting using ML models with a 25-day prediction window
+- **Breast Cancer Prediction:** Implemented an ML model for early diagnosis
+- **LINE Chatbot with SVC:** Deployed a chatbot using Support Vector Classifier
+
+### Natural Language Processing (NLP)
+- **Sentiment Classification with MUSE:** Utilized Multilingual Universal Sentence Encoder (MUSE) and multiple ML models
+- **Text Classification with Transformers & ML:** Compared Tfidf+LR, SVM, Random Forest, XGBoost, LSTM, BERT (WangchanBERTa)
+- **Legal/Medical LLM Research:** Investigating Retrieval-Augmented Generation (RAG) and multimodal AI applications
+
+### Cloud & DevOps
+- **Google Cloud Run Deployment:** Deployed ML models on Google Cloud Run
+- **KBTG M.A.D Bootcamp & Hackathon:** Applied Predictive AI, LLMs, LangChain, ComfyUI in real-world scenarios
+
+---
+
+## Technical Skills & Languages
+
+### Programming Languages
+- Python (Advanced), C (Intermediate), Java (Basic), JavaScript (Basic)
+- HTML5 (Advanced), CSS3 (Intermediate)
+
+### Libraries/Frameworks
+- NumPy, Pandas, Scikit-learn, TensorFlow, Seaborn, Matplotlib
+- React (Basic), LangChain, ComfyUI
+
+### Data Analysis
+- Machine Learning, Deep Learning, SQL, Data Visualization (Tableau)
+
+### Tools
+- Git, Google Cloud, Docker, Jupyter
+
+### Languages
+- Thai (Native), English (Intermediate), Japanese (Beginner)
+
+---
+
+## Education
+- **Bachelor of Science in Computer Science** (Expected April 2026)
+- **Kasetsart University**
+
+---
+
+## Quote
+> "Life is not about waiting for the storm to pass. It's about learning to dance in the rain."
+
+---
+
+## Personal Interests
+- **Professional Googler**
+- **Sleepless Coder**
+- **Music Junkie**
+- **Fake Psychologist (INTP 5w6 SX)**
+
+---
+
+</div>
+
+---
+
+## Socials
+<p align="left"> 
+<a href="https://discord.com/users/etcx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/RETCx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/20506941/etc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
-<div>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/etcx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RETCx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20506941/etc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-
-
-
-
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-<b>My GitHub Stats</b>
-<p align="left">
-
-
+---
 
 
 </tr>
 </table>
-
-
-
-
