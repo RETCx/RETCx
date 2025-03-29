@@ -42,16 +42,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-Ask me anything—except why my code isn’t working. I’m fluent in Python, C, C++, NumPy, and Pandas, but my real talent? Curating the ultimate Spotify playlist! 🎶 From Lauv to The 1975, my taste is as chaotic as my sleep schedule (if you can call it that).
-
-Tech gadgets? Oh, I’m all about them! I’ll spend hours obsessing over the latest must-have devices—because who needs sleep when you can “need” an AI toaster? 📱💻 When I’m not coding or debugging my latest mess, I’m lifting weights at the gym. Yes, I try to balance machine learning with muscle gains—though my squats might have better accuracy than my code some days! 💪🏋️
-
-As an INTP 6w5, I’m basically a professional overthinker. I analyze everything—ML algorithms, manga plots, or the existential dread of choosing a dataset. Seriously, if you’ve ever spent three hours deciding between “cats vs. dogs,” we’re basically soulmates. 🌌
-
-Math at 3 a.m.? I can’t prove a theorem to save my life, but I can definitely forget what day it is! Sleep schedules? For those who don’t wonder why TensorFlow decided to crash (again) in the middle of the night. 🌚
-
-I’m on the hunt for any job that can help me make some money—preferably one that doesn’t involve too much sleep deprivation! And don’t even get me started on the coder-insomnia memes—seriously, it's not a bug; it’s a feature. If you can’t find the right words, just send me a song and let’s vibe! 🎶
-
-100% randomness guaranteed! Always up for a chat or ready to hit you with a random math fact or workout tip!
-
 
