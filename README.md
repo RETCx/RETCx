@@ -2,7 +2,7 @@
 ☔ Hi, My name is Kantinan Rujiraruangporn **(Petch)**.<br>
 🎓 I’m a recent Computer Science graduate from Kasetsart University (Class of April 2026).<br>
 🌱 I have a strong foundation in machine learning, LLMs, and data engineering pipelines. I am passionate about leveraging AI to solve complex problems and architecting end-to-end data systems.<br>
-🎯 I am actively seeking roles to drive impactful results as a Data Scientist, ML Engineer, AI Engineer, or Data Engineer.<br>
+🎯 I am actively seeking roles to drive impactful results as a Data Scientist, ML Engineer, AI Engineer, Data Engineer , or Quant engineer.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/RETCX) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kantinan.ruj04@gmail.com)
