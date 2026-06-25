@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312vffmbmeita4ieimodffo4d52i&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312vffmbmeita4ieimodffo4d52i&redirect=true)
+
 # 💫 About Me
 👋 Hi, I'm Kantinan Rujiraruangporn **(Petch)**.
 
@@ -31,3 +33,10 @@ I enjoy building end-to-end data systems, training models, and working with LLMs
 ![](https://github-readme-stats.vercel.app/api?username=RETCx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RETCx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RETCx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/RETCx/RETCx/raw/output/github-contribution-grid-snake-dark.svg)
+
+### ⏱️ Weekly Coding Stats
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
