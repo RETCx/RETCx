@@ -20,12 +20,6 @@
 ### 💫 About Me
 I enjoy building end-to-end data systems, training models, and working with LLMs. Currently, I'm looking for my first full-time role as a **Data Scientist, ML/AI Engineer, Data Engineer, or Quant**.
 
-### 🔥 Experience & Achievements
-- **depa & Huawei Data Science Initiative:** Completed intensive training in data pipelines, ML modeling, and cloud computing. Certified as a professional Data Scientist.
-- **KBTG M.A.D. Hackathon 2024:** Top 80 finalist. Built GenAI solutions utilizing ComfyUI and LangChain.
-- **Quick Transformation PCL (Internship):** Modernized legacy Android apps (threading & REST APIs) and developed custom ERP extensions for Microsoft Business Central.
-
----
 
 ### 💻 Tech Stack
 
