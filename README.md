@@ -47,7 +47,7 @@ Currently looking for a first full-time role as an ML/AI Engineer, Data Engineer
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Petch's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RETCx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Petch's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RETCx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Petch's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=RETCx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a><a href="https://github.com/stats-organization/github-stats-extended"><img alt="Petch's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=RETCx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </div>
 
 <br/>
